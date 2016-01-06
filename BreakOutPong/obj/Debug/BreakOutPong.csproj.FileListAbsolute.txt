@@ -1,0 +1,29 @@
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\bin\Debug\BreakOutPong.exe.config
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\bin\Debug\BreakOutPong.exe
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\bin\Debug\BreakOutPong.pdb
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.frmBreakout.resources
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.Properties.Resources.resources
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.exe
+H:\Documents\Visual Studio 2012\Projects\BreakOutPongMostRecent\BreakOutPong\obj\Debug\BreakOutPong.pdb
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.exe.config
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.exe
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.pdb
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.exe
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.pdb
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.frmBreakout.resources
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.Properties.Resources.resources
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.csproj.GenerateResource.Cache
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.Resource1.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.exe.config
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.exe
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.pdb
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.exe
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\bin\Debug\BreakOutPong.pdb
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.frmBreakout.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.Properties.Resources.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.Resource1.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\BreakOutPongFinished\BreakOutPong\obj\Debug\BreakOutPong.csproj.GenerateResource.Cache
